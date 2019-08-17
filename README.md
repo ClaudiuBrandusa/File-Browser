@@ -7,4 +7,4 @@ Those are the external modules that i have used:
 - Pillow (for images)  
 - Pyinstaller (for .exe compilation)  
 
-Do not forget to tell me if you find any bugs or or you think you have a better approach.
+Do not forget to tell me if you find any bugs or you think you have a better approach.
