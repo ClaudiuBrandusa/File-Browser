@@ -1,4 +1,4 @@
-# File-Browser
+# File-System-Browser
 A minimalist file explorer that you can browse through local disk partitions, tested on Windows 10.
 It should work on all Windows distributions.  
 You can get the .exe version from here: https://drive.google.com/open?id=1vM1UfZWzNAiy_8pMgdgVWtT_UOJUtmvY
